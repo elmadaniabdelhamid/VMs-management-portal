@@ -1,1 +1,0 @@
-# VMs-management-portal
